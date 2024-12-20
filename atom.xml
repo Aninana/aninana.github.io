@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aninana</title>
+  <icon>https://aninana.zen-harmony.top/icon.png</icon>
+  
+  <link href="https://aninana.zen-harmony.top/atom.xml" rel="self"/>
+  
+  <link href="https://aninana.zen-harmony.top/"/>
+  <updated>2024-01-29T04:59:41.000Z</updated>
+  <id>https://aninana.zen-harmony.top/</id>
+  
+  <author>
+    <name>Aninana</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>倒霉的一天</title>
+    <link href="https://aninana.zen-harmony.top/posts/15b3ff1b/"/>
+    <id>https://aninana.zen-harmony.top/posts/15b3ff1b/</id>
+    <published>2024-01-29T04:59:41.000Z</published>
+    <updated>2024-01-29T04:59:41.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在2024年1月28日的下午，我怀揣着对treeland这一新特性的好奇与期待，决定在笔记本上实机安装deepin V23</summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="https://aninana.zen-harmony.top/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="Linux" scheme="https://aninana.zen-harmony.top/tags/Linux/"/>
+    
+    <category term="吐槽" scheme="https://aninana.zen-harmony.top/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小站成立</title>
+    <link href="https://aninana.zen-harmony.top/posts/57b9a148/"/>
+    <id>https://aninana.zen-harmony.top/posts/57b9a148/</id>
+    <published>2024-01-05T01:46:29.000Z</published>
+    <updated>2024-12-20T08:06:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;大家好，我叫Aninana，今天我满怀欣喜地宣布，我终于拥有了属于自己的小站。&lt;br&gt;
+欢迎各位踏入这片知识与兴趣的沃土——欢迎来到我的小站！&lt;br&gt;
+我建立这个小站，是受到众多大佬和坛友的启发。&lt;br&gt;
+我希望这里能成为我积累知识、分享兴趣的平台，让所学所得得以沉淀和传承</summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="https://aninana.zen-harmony.top/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="感想" scheme="https://aninana.zen-harmony.top/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>deepin伴我成长</title>
+    <link href="https://aninana.zen-harmony.top/posts/8bab7a30/"/>
+    <id>https://aninana.zen-harmony.top/posts/8bab7a30/</id>
+    <published>2023-12-19T02:16:48.000Z</published>
+    <updated>2023-12-19T02:16:48.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;转眼间，2023年即将画上句号。回顾这一年，我与deepin的缘分始于3月，在实体机上安装deepin并加入deepin论坛，至今已历时九个月。这段经历不仅丰富了我的技术视野，也让我对deepin有了更深刻的认识和感受。&lt;/p&gt;
+&lt;p&gt;早在2019年，我便与deepin结缘</summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="https://aninana.zen-harmony.top/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="感想" scheme="https://aninana.zen-harmony.top/tags/%E6%84%9F%E6%83%B3/"/>
+    
+    <category term="Linux" scheme="https://aninana.zen-harmony.top/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
