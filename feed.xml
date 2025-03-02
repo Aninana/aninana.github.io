@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aninana</title>
+    <link>https://aninana.zen-harmony.top/</link>
+    
+    <image>
+      <url>https://aninana.zen-harmony.top/icon.png</url>
+      <title>Aninana</title>
+      <link>https://aninana.zen-harmony.top/</link>
+    </image>
+    
+    <atom:link href="https://aninana.zen-harmony.top/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 06 Feb 2025 06:20:08 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>更换了主力机</title>
+      <link>https://aninana.zen-harmony.top/posts/2b370a99/</link>
+      <guid>https://aninana.zen-harmony.top/posts/2b370a99/</guid>
+      <pubDate>Thu, 06 Feb 2025 06:20:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;其实这是2024年12月29日发生的事情了，只是因为我这段时间没顾着更新博客，到今天才在这里写出来。&lt;/p&gt;
+&lt;p&gt;我原来的主力机是小米8青春版，于2022年开始使用，当时我爷爷因为换手机了，就把他原来这部小米8青春版给了我。当时我的主力机是不知道哪个型号的红米，用来接收各</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://aninana.zen-harmony.top/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://aninana.zen-harmony.top/tags/%E4%B8%AA%E4%BA%BA%E7%8A%B6%E5%86%B5/">个人状况</category>
+      
+      <category domain="https://aninana.zen-harmony.top/tags/%E6%84%9F%E6%83%B3/">感想</category>
+      
+      
+      <comments>https://aninana.zen-harmony.top/posts/2b370a99/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>倒霉的一天</title>
+      <link>https://aninana.zen-harmony.top/posts/15b3ff1b/</link>
+      <guid>https://aninana.zen-harmony.top/posts/15b3ff1b/</guid>
+      <pubDate>Mon, 29 Jan 2024 04:59:41 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;在2024年1月28日的下午，我怀揣着对treeland这一新特性的好奇与期待，决定在笔记本上实机安装deepin V23</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://aninana.zen-harmony.top/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://aninana.zen-harmony.top/tags/Linux/">Linux</category>
+      
+      <category domain="https://aninana.zen-harmony.top/tags/%E5%90%90%E6%A7%BD/">吐槽</category>
+      
+      
+      <comments>https://aninana.zen-harmony.top/posts/15b3ff1b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>小站成立</title>
+      <link>https://aninana.zen-harmony.top/posts/57b9a148/</link>
+      <guid>https://aninana.zen-harmony.top/posts/57b9a148/</guid>
+      <pubDate>Fri, 05 Jan 2024 01:46:29 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;大家好，我叫</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://aninana.zen-harmony.top/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://aninana.zen-harmony.top/tags/%E6%84%9F%E6%83%B3/">感想</category>
+      
+      
+      <comments>https://aninana.zen-harmony.top/posts/57b9a148/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
